@@ -34,6 +34,6 @@ It focuses on simplicity, basic security validation, and a clean terminal interf
 pip install requests rich
 ```
 ```bash
-git clone https://github.com/yourusername/NX0IN.git
+git clone https://github.com/ZUYANx/NX0IN.git
 cd N0XIN
 python NX0INFO-E.py
